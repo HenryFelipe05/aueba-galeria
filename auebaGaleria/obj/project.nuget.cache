@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WfTR7G7lf9W/gYHHRrFA75TWSqIvevMJUj2tcMJMCG4tdZRqBGJATIU5AjFmkTf9GzeXWhOQw8qCZuHlVF5BUA==",
+  "dgSpecHash": "ZNJCi1tciDVu1mk3+CtAxtgDZVQdHrl9J+fN3dAhghleSXPZhWzr+1XBFFZpSWpYRxaMutKzhFVymy43fnqQZw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
+  "projectFilePath": "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\etec\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\etec\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

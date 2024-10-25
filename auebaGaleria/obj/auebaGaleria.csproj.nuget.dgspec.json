@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj": {}
+    "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj": {}
   },
   "projects": {
-    "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj": {
+    "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
+        "projectUniqueName": "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
         "projectName": "auebaGaleria",
-        "projectPath": "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
+        "projectPath": "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\auebaGaleria.csproj",
         "packagesPath": "C:\\Users\\etec\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\obj\\",
+        "outputPath": "C:\\Users\\etec\\Desktop\\aueba-galeria\\auebaGaleria\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\etec\\AppData\\Roaming\\NuGet\\NuGet.Config",
